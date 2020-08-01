@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithm
-Example on 
+Example on Array Sequence.
